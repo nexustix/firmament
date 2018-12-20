@@ -1,4 +1,3 @@
 firmament
 
-Proof of concept networking protocol
-Not intended for production
+Networking proof of concept on top of TCP
